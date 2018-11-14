@@ -1,0 +1,566 @@
+{
+    "home": {
+        "starters": [
+            {
+                "name": "L. Nance Jr.",
+                "url": "http://www.espn.com/nba/player/_/id/2580365",
+                "position": "PF",
+                "stats": [
+                    "8",
+                    "3",
+                    "0",
+                    "4",
+                    "1-1",
+                    "1-1",
+                    "0-0",
+                    "0",
+                    "0",
+                    "0",
+                    "0",
+                    "+11",
+                    "1",
+                    "3"
+                ]
+            },
+            {
+                "name": "T. Thompson",
+                "url": "http://www.espn.com/nba/player/_/id/6474",
+                "position": "C",
+                "stats": [
+                    "8",
+                    "5",
+                    "2",
+                    "6",
+                    "2-3",
+                    "0-0",
+                    "1-2",
+                    "0",
+                    "1",
+                    "0",
+                    "0",
+                    "+11",
+                    "2",
+                    "4"
+                ]
+            },
+            {
+                "name": "C. Sexton",
+                "url": "http://www.espn.com/nba/player/_/id/4277811",
+                "position": "PG",
+                "stats": [
+                    "8",
+                    "7",
+                    "1",
+                    "2",
+                    "3-5",
+                    "1-1",
+                    "0-0",
+                    "0",
+                    "0",
+                    "0",
+                    "1",
+                    "+11",
+                    "2",
+                    "0"
+                ]
+            },
+            {
+                "name": "J. Smith",
+                "url": "http://www.espn.com/nba/player/_/id/2444",
+                "position": "SG",
+                "stats": [
+                    "8",
+                    "7",
+                    "1",
+                    "0",
+                    "3-7",
+                    "1-3",
+                    "0-0",
+                    "0",
+                    "0",
+                    "0",
+                    "0",
+                    "+11",
+                    "0",
+                    "0"
+                ]
+            },
+            {
+                "name": "R. Hood",
+                "url": "http://www.espn.com/nba/player/_/id/2581177",
+                "position": "SG",
+                "stats": [
+                    "8",
+                    "4",
+                    "1",
+                    "1",
+                    "2-4",
+                    "0-0",
+                    "0-0",
+                    "0",
+                    "0",
+                    "0",
+                    "0",
+                    "+11",
+                    "0",
+                    "1"
+                ]
+            }
+        ],
+        "bench": [
+            {
+                "name": "C. Frye",
+                "url": "http://www.espn.com/nba/player/_/id/2754",
+                "position": "F",
+                "stats": [
+                    "H",
+                    "e",
+                    " ",
+                    "t",
+                    "a",
+                    "s",
+                    " ",
+                    "e",
+                    "n",
+                    "t",
+                    "e",
+                    "r",
+                    "n",
+                    "o"
+                ]
+            },
+            {
+                "name": "C. Osman",
+                "url": "http://www.espn.com/nba/player/_/id/3893016",
+                "position": "SF",
+                "stats": [
+                    "H",
+                    "e",
+                    " ",
+                    "t",
+                    "a",
+                    "s",
+                    " ",
+                    "e",
+                    "n",
+                    "t",
+                    "e",
+                    "r",
+                    "n",
+                    "o"
+                ]
+            },
+            {
+                "name": "A. Zizic",
+                "url": "http://www.espn.com/nba/player/_/id/4017838",
+                "position": "C",
+                "stats": [
+                    "H",
+                    "e",
+                    " ",
+                    "t",
+                    "a",
+                    "s",
+                    " ",
+                    "e",
+                    "n",
+                    "t",
+                    "e",
+                    "r",
+                    "n",
+                    "o"
+                ]
+            },
+            {
+                "name": "J. Clarkson",
+                "url": "http://www.espn.com/nba/player/_/id/2528426",
+                "position": "PG",
+                "stats": [
+                    "H",
+                    "e",
+                    " ",
+                    "t",
+                    "a",
+                    "s",
+                    " ",
+                    "e",
+                    "n",
+                    "t",
+                    "e",
+                    "r",
+                    "n",
+                    "o"
+                ]
+            },
+            {
+                "name": "D. Nwaba",
+                "url": "http://www.espn.com/nba/player/_/id/3062744",
+                "position": "SG",
+                "stats": [
+                    "H",
+                    "e",
+                    " ",
+                    "t",
+                    "a",
+                    "s",
+                    " ",
+                    "e",
+                    "n",
+                    "t",
+                    "e",
+                    "r",
+                    "n",
+                    "o"
+                ]
+            },
+            {
+                "name": "A. Harrison",
+                "url": "http://www.espn.com/nba/player/_/id/3064511",
+                "position": "SG",
+                "stats": [
+                    "H",
+                    "e",
+                    " ",
+                    "t",
+                    "a",
+                    "s",
+                    " ",
+                    "e",
+                    "n",
+                    "t",
+                    "e",
+                    "r",
+                    "n",
+                    "o"
+                ]
+            }
+        ],
+        "total": [
+            "",
+            "11-20",
+            "3-5",
+            "1-2",
+            "5",
+            "8",
+            "13",
+            "4",
+            "0",
+            "1",
+            "0",
+            "1",
+            "",
+            "26"
+        ]
+    },
+    "away": {
+        "starters": [
+            {
+                "name": "M. Williams",
+                "url": "http://www.espn.com/nba/player/_/id/2797",
+                "position": "PF",
+                "stats": [
+                    "8",
+                    "3",
+                    "0",
+                    "0",
+                    "1-2",
+                    "1-2",
+                    "0-0",
+                    "0",
+                    "0",
+                    "0",
+                    "0",
+                    "-11",
+                    "0",
+                    "0"
+                ]
+            },
+            {
+                "name": "N. Batum",
+                "url": "http://www.espn.com/nba/player/_/id/3416",
+                "position": "SF",
+                "stats": [
+                    "8",
+                    "6",
+                    "2",
+                    "2",
+                    "3-8",
+                    "0-2",
+                    "0-0",
+                    "0",
+                    "0",
+                    "0",
+                    "0",
+                    "-11",
+                    "2",
+                    "0"
+                ]
+            },
+            {
+                "name": "C. Zeller",
+                "url": "http://www.espn.com/nba/player/_/id/2579258",
+                "position": "C",
+                "stats": [
+                    "5",
+                    "0",
+                    "3",
+                    "1",
+                    "0-0",
+                    "0-0",
+                    "0-0",
+                    "0",
+                    "0",
+                    "0",
+                    "1",
+                    "-7",
+                    "1",
+                    "0"
+                ]
+            },
+            {
+                "name": "K. Walker",
+                "url": "http://www.espn.com/nba/player/_/id/6479",
+                "position": "PG",
+                "stats": [
+                    "8",
+                    "0",
+                    "1",
+                    "2",
+                    "0-5",
+                    "0-3",
+                    "0-0",
+                    "0",
+                    "0",
+                    "0",
+                    "0",
+                    "-11",
+                    "0",
+                    "2"
+                ]
+            },
+            {
+                "name": "J. Lamb",
+                "url": "http://www.espn.com/nba/player/_/id/6603",
+                "position": "SG",
+                "stats": [
+                    "8",
+                    "6",
+                    "0",
+                    "2",
+                    "3-4",
+                    "0-0",
+                    "0-0",
+                    "0",
+                    "0",
+                    "0",
+                    "0",
+                    "-11",
+                    "0",
+                    "2"
+                ]
+            }
+        ],
+        "bench": [
+            {
+                "name": "W. Hernangomez",
+                "url": "http://www.espn.com/nba/player/_/id/2999409",
+                "position": "C",
+                "stats": [
+                    "3",
+                    "0",
+                    "0",
+                    "1",
+                    "0-1",
+                    "0-0",
+                    "0-0",
+                    "0",
+                    "0",
+                    "0",
+                    "0",
+                    "-4",
+                    "0",
+                    "1"
+                ]
+            },
+            {
+                "name": "F. Kaminsky",
+                "url": "http://www.espn.com/nba/player/_/id/2579294",
+                "position": "PF",
+                "stats": [
+                    "H",
+                    "e",
+                    " ",
+                    "t",
+                    "a",
+                    "s",
+                    " ",
+                    "e",
+                    "n",
+                    "t",
+                    "e",
+                    "r",
+                    "n",
+                    "o"
+                ]
+            },
+            {
+                "name": "M. Bridges",
+                "url": "http://www.espn.com/nba/player/_/id/4066383",
+                "position": "SF",
+                "stats": [
+                    "H",
+                    "e",
+                    " ",
+                    "t",
+                    "a",
+                    "s",
+                    " ",
+                    "e",
+                    "n",
+                    "t",
+                    "e",
+                    "r",
+                    "n",
+                    "o"
+                ]
+            },
+            {
+                "name": "B. Biyombo",
+                "url": "http://www.espn.com/nba/player/_/id/6427",
+                "position": "C",
+                "stats": [
+                    "H",
+                    "e",
+                    " ",
+                    "t",
+                    "a",
+                    "s",
+                    " ",
+                    "e",
+                    "n",
+                    "t",
+                    "e",
+                    "r",
+                    "n",
+                    "o"
+                ]
+            },
+            {
+                "name": "T. Parker",
+                "url": "http://www.espn.com/nba/player/_/id/1015",
+                "position": "PG",
+                "stats": [
+                    "H",
+                    "e",
+                    " ",
+                    "t",
+                    "a",
+                    "s",
+                    " ",
+                    "e",
+                    "n",
+                    "t",
+                    "e",
+                    "r",
+                    "n",
+                    "o"
+                ]
+            },
+            {
+                "name": "D. Graham",
+                "url": "http://www.espn.com/nba/player/_/id/3133601",
+                "position": "PG",
+                "stats": [
+                    "H",
+                    "e",
+                    " ",
+                    "t",
+                    "a",
+                    "s",
+                    " ",
+                    "e",
+                    "n",
+                    "t",
+                    "e",
+                    "r",
+                    "n",
+                    "o"
+                ]
+            },
+            {
+                "name": "D. Bacon",
+                "url": "http://www.espn.com/nba/player/_/id/3907821",
+                "position": "SG",
+                "stats": [
+                    "H",
+                    "e",
+                    " ",
+                    "t",
+                    "a",
+                    "s",
+                    " ",
+                    "e",
+                    "n",
+                    "t",
+                    "e",
+                    "r",
+                    "n",
+                    "o"
+                ]
+            },
+            {
+                "name": "M. Monk",
+                "url": "http://www.espn.com/nba/player/_/id/4066262",
+                "position": "SG",
+                "stats": [
+                    "H",
+                    "e",
+                    " ",
+                    "t",
+                    "a",
+                    "s",
+                    " ",
+                    "e",
+                    "n",
+                    "t",
+                    "e",
+                    "r",
+                    "n",
+                    "o"
+                ]
+            }
+        ],
+        "total": [
+            "",
+            "7-20",
+            "1-7",
+            "0-0",
+            "3",
+            "5",
+            "8",
+            "6",
+            "0",
+            "0",
+            "0",
+            "1",
+            "",
+            "15"
+        ]
+    },
+    "header": [
+        "MIN",
+        "PTS",
+        "AST",
+        "REB",
+        "FG",
+        "3PT",
+        "FT",
+        "STL",
+        "BLK",
+        "TO",
+        "PF",
+        "+/-",
+        "OREB",
+        "DREB"
+    ]
+}

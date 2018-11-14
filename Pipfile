@@ -1,0 +1,16 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+flask = "*"
+"beautifulsoup4" = "*"
+requests = "*"
+selenium = "*"
+lxml = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.7"
